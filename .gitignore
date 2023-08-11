@@ -5,7 +5,7 @@
 temp/ 
 
 gtfs/
-
+venv/
 trainvenv/
 
 gtfs.zip
