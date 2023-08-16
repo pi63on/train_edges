@@ -11,3 +11,6 @@ trainvenv/
 gtfs.zip
 train_edges/
 edges-new.csv
+.*
+*.csv
+
